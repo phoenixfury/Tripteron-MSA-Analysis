@@ -1,0 +1,9 @@
+How to run our code.
+
+1- Go to Main_1 script and specify the Force direction and magnitude
+
+2- To plot the configuration, Use the plot script and plot the Configuration you want.
+
+3- The inverse and forward kinematics have their own functions
+
+4- Compute deflection function is the function that analyze the MSA model and computes the deflection 
